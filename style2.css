@@ -1,0 +1,44 @@
+h1 {
+	color: yellow;
+	font-family:calibri;
+	}
+	
+h2 {
+	color: white;
+	font-family:calibri;
+	}
+	
+h3 {
+	color:white;
+	font-family:calibri;
+	}
+
+p {
+	font-family:calibri; 
+	color:hsl(0, 0%, 0%)
+	} 
+	
+	a	{
+	font-family:calibri; 
+	color:hsl(0, 0%, 0%)
+	} 
+		
+	
+body {
+
+    background-image:url('obrazy/tlo_drops2.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+	
+	
+}
+
+
+background:();
+background-size:cover
+
+	
+
+
+
+
